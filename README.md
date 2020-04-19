@@ -14,10 +14,10 @@
 目前是金陵科技学院的一名计算机科学与技术专业的大四学生，学过的编程语言有`JAVA HTML CSS Javascript`
 
 ```javascript
+var a = 1;
 function f(){
-  console.log('hello world')
+  console.log(a)
 }
-
 f()
 ```
-
+这是我刚写的博客[blog-test](https://github.com/sailyw/blog-test/blob/master/README.md)
